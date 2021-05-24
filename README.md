@@ -4,6 +4,7 @@
 * This is the original FusionAPI `C#` package brought to `JavaScript`.
 * Website: https://fusionapi.dev/
 * Official repo: https://github.com/FusionAPI/FusionAPI-CSharp
+* Developer Github: https://github.com/alejandromume/
 
 ## <ins>Issues
 * Chat module is not available right now. [alejandromume](https://github.com/alejandromume/) will update it soon
